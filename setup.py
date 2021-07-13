@@ -13,6 +13,7 @@ setup(name = "binaryaudit",
         ],
         scripts = [
             "bin/ba_is_elf",
+            "bin/mariner_script",
         ],
         zip_safe = False)
 
